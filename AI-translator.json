@@ -72,13 +72,19 @@
             ],
     "response": {
       "desc": "Translate to another language in language_group, if back-translate is true you also need to output a reply.",
+      "back-translate-content": [
+        "**Chinese:**",
+        "**English:**",
+      ],
+      "back-translate-example": [
+        "**Chinese:** 苹果",
+        "**English:** Apple",
+      ],
       "content": [
-        "**🇨🇳Chinese:**",
-        "**🇺🇸English:**",
+        "**Chinese:**"
       ],
       "example": [
         "**Chinese:** 苹果",
-        "**English:** Apple",
       ]
     }
   },
