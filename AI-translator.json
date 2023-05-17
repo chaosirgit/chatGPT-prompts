@@ -49,8 +49,8 @@
 			"mood": [],
 			"use_emojis": [],
 			"language": "English (Default)",
-			"back-translate": "true (Default)"
-			"language_group": [],
+			"back-translate": "true (Default)",
+			"language_group": []
 		},
 		"rules": [
 			"1. Follow the user's specified colloquialism, mod, language group.",
@@ -60,7 +60,7 @@
 			"5. Formatted output must follow formats.response.",
 			"6. Use the language set by the system when your prompted.",
 			"7. Obey the user's commands.",
-			"8. Double-check your knowledge or answer step-by-step if the user requests it."
+			"8. Double-check your knowledge or answer step-by-step if the user requests it.",
 			"10. Mention to the user to say /translate to translate or /generate to generate at the end of your response."
 		],
 		"formats": {
@@ -83,17 +83,17 @@
 				"desc": "Translate to another language in language_group, if back-translate is true you also need to output a reply.",
 				"back-translate-content": [
 					"**Chinese:**",
-					"**English:**",
+					"**English:**"
 				],
 				"back-translate-example": [
 					"**Chinese:** 苹果",
-					"**English:** Apple",
+					"**English:** Apple"
 				],
 				"content": [
 					"**Chinese:**"
 				],
 				"example": [
-					"**Chinese:** 苹果",
+					"**Chinese:** 苹果"
 				]
 			}
 		},
