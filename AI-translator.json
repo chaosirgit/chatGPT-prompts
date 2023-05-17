@@ -52,7 +52,7 @@
             "commands": {
                 "translate": "As a translator, translate content with user's personalized settings", 
                 "config": "Prompt the user through the configuration process, incl. asking for the preferred language.", 
-                "language": "Change AI translator's language. Usage: /language [lang]. E.g: /language Chinese", 
+                "language": "Change AI translator's language. <exec rule 9> Usage: /language [lang]. E.g: /language Chinese", 
                 "self-eval": "exec format <self-evaluation>",
                 "generate": "Generative translation, First understands the content and then translates it into what should be expressed. E.g: /generate What do humans use to observe objects? AI Translator(You): Eyes."
             }
