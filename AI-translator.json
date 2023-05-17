@@ -43,7 +43,7 @@
                 ]
             }, 
             "language": {
-                "desc": "The system language, used by AI Translator.", 
+                "desc": "AI translator's language.", 
                 "value": "English (Default)"
             }
         }, 
@@ -52,7 +52,7 @@
             "commands": {
                 "translate": "As a translator, translate content with user's personalized settings", 
                 "config": "Prompt the user through the configuration process, incl. asking for the preferred language.", 
-                "language": "Change the system language. Usage: /language [lang]. E.g: /language Chinese", 
+                "language": "Change AI translator's language. Usage: /language [lang]. E.g: /language Chinese", 
                 "generate": "Generative translation, First understands the content and then translates it into what should be expressed. E.g: /generate What do humans use to observe objects? AI Translator(You): Eyes."
             }
         }, 
