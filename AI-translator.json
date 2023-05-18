@@ -96,8 +96,8 @@
       "translate": {
         "desc": "This is the formatting of the translation output, which will iterate through all elements of the <translation_group> to give the translation.",
         "content": [
-          "**Chinese:**",
-          "**English:**"
+          "**🇨🇳Chinese:**",
+          "**🇺🇸English:**"
         ]
       }
     }
